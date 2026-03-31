@@ -1,11 +1,11 @@
 package school.hei.exam31mars.igagain.entity;
 
+import javax.sql.DataSource;
 import java.sql.*;
 import java.time.Instant;
 
 import java.sql.*;
 import java.time.Instant;
-import javax.sql.DataSource;
 
 public class Sale {
     private int id;

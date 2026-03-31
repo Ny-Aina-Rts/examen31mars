@@ -8,11 +8,11 @@
         <version>4.0.5</version>
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
-    <groupId>mg.yoan</groupId>
-    <artifactId>ig-again</artifactId>
+    <groupId>school.hei</groupId>
+    <artifactId>exam31mars</artifactId>
     <version>0.0.1-SNAPSHOT</version>
-    <name>ig-again</name>
-    <description>ig-again</description>
+    <name>exam31mars</name>
+    <description>exam31mars</description>
     <url/>
     <licenses>
         <license/>
@@ -35,16 +35,6 @@
             <artifactId>spring-boot-starter-webmvc</artifactId>
         </dependency>
 
-        <dependency>
-            <groupId>org.springframework.boot</groupId>
-            <artifactId>spring-boot-starter-jdbc</artifactId>
-        </dependency>
-
-        <dependency>
-            <groupId>org.postgresql</groupId>
-            <artifactId>postgresql</artifactId>
-            <scope>runtime</scope>
-        </dependency>
         <dependency>
             <groupId>org.projectlombok</groupId>
             <artifactId>lombok</artifactId>
